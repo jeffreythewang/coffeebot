@@ -1,0 +1,11 @@
+{
+  "name": "coffeebot",
+  "verison": "0.0.1",
+  "description": "Takes your order for a cup of coffee",
+  "main": "coffeebot.js",
+  "author": "",
+  "dependencies": {
+    "botkit": "0.2.1"
+  },
+  "license": "MIT"
+}
