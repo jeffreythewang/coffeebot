@@ -5,7 +5,8 @@
   "main": "coffeebot.js",
   "author": "",
   "dependencies": {
-    "botkit": "0.2.1"
+    "botkit": "0.2.1",
+    "dotenv": "2.0.0"
   },
   "license": "MIT"
 }
